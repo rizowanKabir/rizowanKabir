@@ -2,7 +2,7 @@
 <!-- README.md -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  <h1 align="center">Python & Django Developer | Web Enthusiast</h1>
+  <h1 align="center">Python & Django Developer</h1>
 </p>
 
 ---
@@ -29,8 +29,6 @@
   <strong>🌐 Web & API Frameworks :</strong><br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 <!-- 🎨 Frontend Technologies -->
@@ -51,7 +49,6 @@
 <!-- 🛢 Databases -->
 <p align="left">
   <strong>🛢 Databases :</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
