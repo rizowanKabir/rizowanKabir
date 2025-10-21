@@ -94,7 +94,6 @@
 
 📧 Email: [sohagrizowan@gmail.com.com](mailto:sohagrizowan@gmail.com)
 🔗 LinkedIn: [https://www.linkedin.com/in/rizowan-kabir]
-(https://www.linkedin.com/in/rizowan-kabir)
 
 ---
 
