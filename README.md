@@ -74,7 +74,7 @@
 <h2 align="center">📊GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizowanKabir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+   <img src="https://github-readme-stats.vercel.app/api?username=rizowanKabir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
