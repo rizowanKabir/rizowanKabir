@@ -70,6 +70,92 @@
 
 
 ---
+### 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+#### 🏥 [Hospital Management System](https://github.com/rizowanKabir/Hospital-Management-System)
+
+**Comprehensive Hospital Management Platform**
+
+A full-featured hospital management system built with Django, offering separate dashboards for patients, doctors, managers, and administrators. Includes appointment booking, role-based access control, patient records, and prescription management.
+
+`Django` `MySQL` `Bootstrap` `RBAC`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizowanKabir/Hospital-Management-System)
+
+</td>
+
+<td width="50%">
+
+#### 💼 [Job Portal Management System](https://github.com/rizowanKabir/Jobportal_Management_System)
+
+**Online Job Recruitment Platform**
+
+A scalable job portal connecting employers and job seekers with advanced job search, resume upload, application tracking, and automated email notifications using Django REST Framework.
+
+`Django` `MySQL` `DRF` `Bootstrap`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizowanKabir/Jobportal_Management_System)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+#### 🐦 [Mini Social Media Application](https://github.com/rizowanKabir/Social-Media-App-like-twitter-)
+
+**Twitter-like Social Networking App**
+
+A lightweight social media application featuring post creation, likes, comments, follow/unfollow system, and personalized news feed using MongoDB for flexible data storage.
+
+`Django` `MongoDB` `Social Network`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizowanKabir/Social-Media-App-like-twitter-)
+
+</td>
+
+<td width="50%">
+
+#### 💰 [Cash Management System](https://github.com/rizowanKabir/Cash-Management-System)
+
+**Personal Finance & Expense Tracker**
+
+A financial management system to track income, expenses, budgets, and generate detailed reports with real-time analytics and PDF export functionality.
+
+`Django` `MySQL` `Finance Management`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizowanKabir/Cash-Management-System)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+#### 💡 More Projects
+
+Explore more of my work on GitHub repositories!
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizowanKabir?tab=repositories)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 
 <h2 align="center">📊GitHub Stats</h2>
 
